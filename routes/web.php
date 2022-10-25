@@ -25,3 +25,4 @@ Route::get('/listings/{id}', function($id){
        'listing' => Listing::find($id)
     ]);
 });
+  
