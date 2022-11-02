@@ -33,4 +33,15 @@ php artisan migrate
 php artisan serve
 ```
 
+## Valet Commands (Create local url)
+```
+valet install
+```
+```
+valet link
+```
+```
+valet park
+```
+
 Enjoy :palm_tree:
